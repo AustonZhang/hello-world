@@ -1,4 +1,6 @@
 # hello-world
 The_first_one
 
-edit edit edit edit 
+
+Started on Aug.25 2019.
+
